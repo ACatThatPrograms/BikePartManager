@@ -1,0 +1,9 @@
+c:\users\kamite\documents\visual studio 2015\Projects\BikePartManager\BikePartManager\bin\Release\BikePartManager.exe.config
+c:\users\kamite\documents\visual studio 2015\Projects\BikePartManager\BikePartManager\bin\Release\BikePartManager.exe
+c:\users\kamite\documents\visual studio 2015\Projects\BikePartManager\BikePartManager\bin\Release\BikePartManager.pdb
+c:\users\kamite\documents\visual studio 2015\Projects\BikePartManager\BikePartManager\obj\Release\BikePartManager.Form1.resources
+c:\users\kamite\documents\visual studio 2015\Projects\BikePartManager\BikePartManager\obj\Release\BikePartManager.Properties.Resources.resources
+c:\users\kamite\documents\visual studio 2015\Projects\BikePartManager\BikePartManager\obj\Release\BikePartManager.csproj.GenerateResource.Cache
+c:\users\kamite\documents\visual studio 2015\Projects\BikePartManager\BikePartManager\obj\Release\BikePartManager.exe
+c:\users\kamite\documents\visual studio 2015\Projects\BikePartManager\BikePartManager\obj\Release\BikePartManager.pdb
+c:\users\kamite\documents\visual studio 2015\Projects\BikePartManager\BikePartManager\obj\Release\BikePartManager.csprojResolveAssemblyReference.cache
